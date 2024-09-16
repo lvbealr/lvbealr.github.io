@@ -10,5 +10,7 @@ var searchData=
   ['textlineinitialize_7',['textLineInitialize',['../textStruct_8cpp.html#a8488313f570a66fd51cfba9f5d0b7bb8',1,'textLineInitialize(textData *textData, textLine *lineArray):&#160;textStruct.cpp'],['../textStruct_8h.html#a8488313f570a66fd51cfba9f5d0b7bb8',1,'textLineInitialize(textData *textData, textLine *lineArray):&#160;textStruct.cpp']]],
   ['textlinepoint_8',['textLinePoint',['../textStruct_8cpp.html#a5cb7505763db3d646357b4bd63f833a9',1,'textLinePoint(textData *textData, textLine *lineArray):&#160;textStruct.cpp'],['../textStruct_8h.html#a5cb7505763db3d646357b4bd63f833a9',1,'textLinePoint(textData *textData, textLine *lineArray):&#160;textStruct.cpp']]],
   ['textstruct_2ecpp_9',['textStruct.cpp',['../textStruct_8cpp.html',1,'']]],
-  ['textstruct_2eh_10',['textStruct.h',['../textStruct_8h.html',1,'']]]
+  ['textstruct_2eh_10',['textStruct.h',['../textStruct_8h.html',1,'']]],
+  ['todo_20a_11',['⌛ TODO List &lt;a name = &quot;todo&quot;&gt;&lt;/a&gt;',['../md_README.html#autotoc_md10',1,'']]],
+  ['todo_20list_20a_20name_20todo_20a_12',['⌛ TODO List &lt;a name = &quot;todo&quot;&gt;&lt;/a&gt;',['../md_README.html#autotoc_md10',1,'']]]
 ];

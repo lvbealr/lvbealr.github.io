@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['📝_20table_20of_20contents_0',['📝 Table of Contents',['../md_README.html#autotoc_md0',1,'']]]
+  ['🏁_20getting_20started_20a_20name_20getting_5fstarted_20a_0',['🏁 Getting Started &lt;a name = &quot;getting_started&quot;&gt;&lt;/a&gt;',['../md_README.html#autotoc_md2',1,'']]]
 ];
